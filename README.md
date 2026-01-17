@@ -9,6 +9,10 @@ This project implements a **multimodal deception detection system** using **audi
 
 **Note:** This project uses **feature extraction**, not transfer learning. No pretrained deep learning models are fine-tuned or reused for classification.
 
+## Dataset
+The dataset used in this project is not publicly hosted in this repository due to size
+and licensing constraints. Feature extraction scripts are provided to reproduce results
+once the dataset is available locally.
 
 ## 🧠 Methodology
 
